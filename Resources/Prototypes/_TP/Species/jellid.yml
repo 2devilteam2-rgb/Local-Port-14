@@ -2,7 +2,7 @@
   id: JellidPerson
   name: species-name-jellid
   customName: true
-  roundStart: true
+  roundStart: false
   prototype: TP14MobJellidPerson
   sprites: MobJellidSprites
   defaultSkinTone: "#b8b8b8"
